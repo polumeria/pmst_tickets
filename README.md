@@ -49,4 +49,4 @@ ___
 
 чат-обсуждение: https://vk.me/join/noGEmL7qGVGAfVvQFfPx0on5XjE2_mwE4c4=
 
-задание: (ссылка на папку со всеми тех.доками по проекту)
+задание: https://github.com/polumeria/pmst_tickets/tree/master/main_task
