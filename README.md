@@ -43,7 +43,7 @@ ___
 ## основные ссылки
 репозиторий: https://github.com/polumeria/pmst_tickets
 
-аск с вопросами: https://ask.fm/kuuroi_usagi
+аск с вопросами: https://curiouscat.live/Polumeria_Holodok
 
 чат-обсуждение: https://vk.me/join/noGEmL7qGVGAfVvQFfPx0on5XjE2_mwE4c4=
 
